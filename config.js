@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://whybein.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'whybein blog',
+  subtitle: 'Back-End 개발자입니다.',
+  copyright: 'whybein © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,25 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Taylor Youngbo Shim',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Back-End 개발자',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'swhybeing@gmail.com',
+      github: 'https://github.com/whybein'
     }
   }
 };
